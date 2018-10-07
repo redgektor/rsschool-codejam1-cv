@@ -101,7 +101,7 @@ a {
 }
 @media (min-width: 1024px) {
     .wrapper {
-        width: 1024px;
+        width: 984px;
         margin: 0 auto;
     }
 }
