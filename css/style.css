@@ -46,6 +46,12 @@ img {
 a {
     text-decoration: none;
 }
+.example-item {
+    background-color: #999999;
+    padding: 10px;
+    text-align: left;
+    margin-bottom: 10px;
+}
 .wrapper {
     padding: 10px 20px;
     margin: 0;
